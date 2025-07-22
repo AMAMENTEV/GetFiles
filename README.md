@@ -38,7 +38,7 @@ A simple yet powerful Windows file manager with keyboard and mouse navigation su
 
 1. Download the latest release
 2. Extract the ZIP file
-3. Run `FileManager.exe`
+3. Run `GetFiles.exe`
 
 ## 🛠️ Known Issues
 
